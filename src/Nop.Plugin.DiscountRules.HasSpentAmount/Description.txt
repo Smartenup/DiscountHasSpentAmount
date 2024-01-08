@@ -1,8 +1,0 @@
-﻿Group: Discount requirements
-FriendlyName: Customer has spent x.xx amount
-SystemName: DiscountRequirement.HasSpentAmount
-Version: 1.11
-SupportedVersions: 3.80
-Author: SmartenUP team/Pedro Usinskas
-DisplayOrder: 1
-FileName: Nop.Plugin.DiscountRules.HasSpentAmount.dll
