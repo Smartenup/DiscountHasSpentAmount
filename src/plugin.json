@@ -4,7 +4,7 @@
   "SystemName": "DiscountRequirement.HasSpentAmount",
   "Version": "2.0",
   "SupportedVersions": [ "4.60" ],
-  "Author": "nopCommerce team",
+  "Author": "SmartenUp team",
   "DisplayOrder": 1,
   "FileName": "Nop.Plugin.DiscountRules.HasSpentAmount.dll",
   "Description": "Customer has spent x.xx amount"
